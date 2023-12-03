@@ -1,6 +1,7 @@
 # Site desenvolvido no curso: Praticando HTML e CSS - Alura
 
-![GitHub Repo stars](https://img.shields.io/github/stars/gabrielPereira360/alura_plus?style=social&logo=github&label=fav)
+![GitHub Repo stars](https://img.shields.io/github/stars/gabrielPereira360/alura_plus?style=social&logo=github&label=fav&cacheSeconds=3600)
+
 
 
 
